@@ -1,0 +1,24 @@
+{
+  "name": "Event-Timeline",
+  "version": "1.0.0",
+  "description": "An event timeline website for Codecademy JU Chapter Community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AswinBarath/Event-Timeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AswinBarath/Event-Timeline/issues"
+  },
+  "homepage": "https://github.com/AswinBarath/Event-Timeline#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
